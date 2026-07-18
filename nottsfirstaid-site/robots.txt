@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.nottsfirstaid.co.uk/sitemap.xml
